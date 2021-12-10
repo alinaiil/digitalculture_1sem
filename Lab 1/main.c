@@ -67,7 +67,7 @@ int main(int argc, char *argv[]) {
                 printf("Invalid command");
             }
         } else {
-            printf("Incorrect file name");
+            printf("Invalid file name");
         }
     }
     return 0;
